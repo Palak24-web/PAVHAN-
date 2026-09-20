@@ -1,5 +1,8 @@
 # PAVHAN — AI-Powered Growth for Artisan Craft
 
+Live Demo
+Visit PAVHAN : https://pavhan.onrender.com
+
 **Smart India Hackathon · Problem Statement 26090**
 
 An Indian artisan can make a Banarasi saree worth ₹35,000 and be paid ₹14,000 for
