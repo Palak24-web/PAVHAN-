@@ -5,10 +5,10 @@ Visit PAVHAN : https://pavhan.onrender.com
 
 **Smart India Hackathon · Problem Statement 26090**
 
-An Indian artisan can make a Banarasi saree worth ₹35,000 and be paid ₹14,000 for
+An Indian artisan can make a Banarasi sarees worth ₹35,000 and be paid ₹14,000 for
 it at the door, because the person who knows what it is worth is never the person
 who made it. PAVHAN closes that gap with one interaction the artisan already knows
-how to do: **take a photo and talk.**
+how to do: "take a photo and talk."
 
 From a photograph and a spoken sentence in Hindi, PAVHAN produces a complete
 catalogue listing, a defensible price with the arithmetic shown line by line, and
